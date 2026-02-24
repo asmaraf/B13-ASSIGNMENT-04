@@ -7,7 +7,8 @@ let jobs = [
 { id:5, companyName:"PixelCraft Studio", position:"UI/UX Designer", location:"Canada", type:"Contract", salary:"$70k", description:"Design intuitive user experiences for SaaS platforms.", status:"none"},
 { id:6, companyName:"FinEdge Bank", position:"Backend Developer", location:"UK", type:"Full-time", salary:"$110k", description:"Create secure APIs and financial transaction services.", status:"none"},
 { id:7, companyName:"HealthSync", position:"Software Engineer", location:"Remote", type:"Full-time", salary:"$105k", description:"Develop healthcare monitoring systems for hospitals.", status:"none"},
-{ id:8, companyName:"GreenTech Energy", position:"Data Analyst", location:"Netherlands", type:"Hybrid", salary:"$80k", description:"Analyze renewable energy usage and forecasting data.", status:"none"}
+{ id:8, companyName:"GreenTech Energy", position:"Data Analyst", location:"Netherlands", type:"Hybrid", salary:"$80k", description:"Analyze renewable energy usage and forecasting data.", status:"none"},
+{ id:9, companyName:"NextGen Robotics", position:"AI Software Engineer", location:"Japan", type:"Full-time", salary:"$140k", description:"Develop intelligent robotic systems using computer vision and deep learning.", status:"none"}
 ];
 
 let activeTab = "all";
